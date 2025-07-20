@@ -21,7 +21,7 @@ Homepage UI: Clean and intuitive dashboard homepage.
 Key files include:
 
 
-https://github.com/user-attachments/assets/161a8da8-f696-48d4-bde5-81fe8c881f2e
+
 
 
 main.dart: Entry point of the application.
