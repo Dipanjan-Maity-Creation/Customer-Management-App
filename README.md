@@ -5,9 +5,11 @@
 ---
 🎥 Walkthrough Video
 
+Uploading 
+
+https://github.com/user-attachments/assets/a736bdae-cd1b-4d96-8d5f-c4a52dcefe5e
 
 
-Uploading Screen Recording 2025-07-24 122716 (1).mp4…
 
 
 ## ✨ Key Features
